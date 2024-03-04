@@ -1,0 +1,25 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "Final Project for Gen AI course",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michellegaletti/FinalProjectforGenAICourse.git"
+  },
+  "author": "Michelle-Galetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michellegaletti/FinalProjectforGenAICourse/issues"
+  },
+  "homepage": "https://github.com/michellegaletti/FinalProjectforGenAICourse#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.0"
+  }
+}
